@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">Currently im a student in Germany!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notskywars&label=Profile%20views&color=0e75b6&style=flat" alt="notskywars" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=notskywars&label=Profile%20views&color=0e75b6&style=flat" alt="notskywars" /> </p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/wars_not" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wars_not" height="30" width="40" /></a>
 <a href="https://instagram.com/p0sitively_chris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p0sitively_chris" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" float="left" width="50%"> 
   
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
      <p align="left"></p>
@@ -41,4 +41,3 @@
    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
      <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
   </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notskywars&show_icons=true&locale=en&layout=compact" alt="notskywars" /></p>
